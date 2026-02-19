@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>AI-powered applications using Python, Machine Learning, and Computer Vision<br><br>👯 I’m looking to collaborate on  <br>AI/ML projects, data-driven applications, and open-source software<br><br>🤝 I’m looking for help with  <br>System design, scalable backend development, and advanced MLOps practices<br><br>🌱 I’m currently learning  <br>Advanced Python, data parsing, image processing, and software engineering best practices<br><br>💬 Ask me about  <br>Python, Machine Learning, Computer Vision, GenAI, and backend development<br><br>⚡ Fun fact  <br>I enjoy turning complex problems into simple, working solutions 🚀<br>
+🔭 I’m currently working on  <br>AI-powered applications using Python, Machine Learning, and Computer Vision<br>
 
 
 ## 🌐 Socials:
