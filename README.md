@@ -10,7 +10,6 @@
 
 ## Contribution Snake
 
-![GitHub Snake](https://github.com/VethikaV/VethikaV/blob/output/github-snake.svg)
-
+![Snake animation](https://github.com/VethikaV/VethikaV/blob/output/github-snake.svg)
 
 
